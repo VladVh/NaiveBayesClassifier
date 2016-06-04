@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stanfordSentimentTreebankRaw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/stanfordSentimentTreebankRaw.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
